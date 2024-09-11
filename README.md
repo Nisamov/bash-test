@@ -1,2 +1,2 @@
 # bash-test
-Proyecto conjunto con jakesnowd
+Proyecto conjunto con @jakesnowd
