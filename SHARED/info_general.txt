@@ -1,0 +1,7 @@
+Idea general:
+
+El proyecto trata sobre la programación en bash y otros lenguajes si se dispone
+
+Proyecto:
+
+El proyecto tratará de la programación de un software/servicio para Linux con instalador para diferentes distribuciones (Ubuntu (Server/Desktop), Debian y Kali).

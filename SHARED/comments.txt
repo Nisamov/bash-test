@@ -1,0 +1,6 @@
+# Comentarios entre desarrolladores:
+
+- Nisamov: Te voy montando los ficheros básicos, me voy encargando de la instalacion y de las rutas, te las dejaré a continuación:
+    Ruta de fichero ejecutable: /usr/local/sbin/<nombre del programa>
+    Ruta de ficheros de configuracion: /etc/<nombre del programa>/<nombre del programa.conf>
+    Te dejo tambien una carpeta con el fichero de configuracion vacio por si quieres hacer alog con el, pues no es necesario crear uno, pero no sabemos muy bien como se desarrollara este programa
