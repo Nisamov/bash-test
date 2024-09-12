@@ -1,0 +1,9 @@
+Ejecuta estos comandos para actualizar el codigo
+
+Para recoger nuevo codigo sin tener que clonarlo desde 0:
+git pull
+
+Para publicar tus cambios:
+git add .
+git commit -m "Aqui escribe lo que has hecho"
+git push
